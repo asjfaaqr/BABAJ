@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#page_title{
+  top: 0;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  font-size: xx-large;
+  padding: 10;
+}
+#map {
+  height: 80%;
+  width: 100%; /* Set the width to fill the page */
+  position: absolute;
+  overflow: hidden;
+  left: 0;
+  bottom: 10;
+}
+
+#pictureprompt{
+  height: 10px;
+}
