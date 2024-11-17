@@ -4,6 +4,7 @@ Then you can add a marker, answer prompts and boom! A marker with the relevant i
 This tool is meant to serve seafarers, by building a "social platform" that also displays scientifically relevant information for each location. 
 
 The files are seperated as: 
+(Use the most recent uploads of these since there are duplicates)
 
 static
   markers.json
